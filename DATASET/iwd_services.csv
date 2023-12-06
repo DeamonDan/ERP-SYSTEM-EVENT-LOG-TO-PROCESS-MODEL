@@ -1,0 +1,21 @@
+"serviceID","serviceName","engineerID","status","remark"
+"1","Electrical (Residence/Visitor Hostels/Sport Complex)","2","Enabled",
+"2","Electrical (Office/Academics/Hostels)","4","Enabled",
+"3","AC (Central HVAC)","2","Enabled","Under AMC, external agency may take some time to attend"
+"4","AC (Package)","2","Enabled","On call basis"
+"5","Civil Work (Mason)","3","Enabled","As per requirement extra time may take"
+"6","Seawage","5","Enabled",
+"7","Sanitation","8","Disabled",
+"8","Carpentry","5","Enabled","Repairing and maintenance"
+"9","Water Cooler & Purifiers","2","Enabled",
+"10","Horticulture","8","Disabled",
+"11","Fire Fighting","1","Enabled",
+"12","UPS System","4","Enabled","Under AMC, call based external agency"
+"13","Lift Service","4","Enabled","Under AMC, external maintenance team"
+"14","AC (Split-Window)","2","Enabled","Resident during office hours"
+"15","External Electrification","4","Enabled",
+"16","Plumbing","5","Enabled",
+"17","Drainage","5","Enabled",
+"18","Civil Work (White Washing & Painting)","3","Enabled","Small size works"
+"19","Welding Work","3","Enabled","Welding work at workshop"
+"20","Fan Workshop","2","Enabled","Fan/Exhaust Motor Binding Workshop"
